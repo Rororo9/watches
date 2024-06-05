@@ -1,3 +1,5 @@
+![msedge_Xd71fKB9e0](https://github.com/Rororo9/watches/assets/40234315/71765564-6ae1-4e9b-ae0e-039016d07154)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
